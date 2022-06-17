@@ -1,4 +1,4 @@
-#Sega Master System and Game Gear for SoCkit
+# Sega Master System and Game Gear for SoCkit
 Ported from https://github.com/MiSTer-devel/SMS_MiSTer
 
 Follows original readme file.
